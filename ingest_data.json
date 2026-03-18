@@ -1,0 +1,10 @@
+[
+    {
+        "issue": "VPN Connection Timeout",
+        "solution": "Ensure you are using the 'GlobalConnect' profile and that your system clock is synchronized."
+    },
+    {
+        "issue": "Printer Error 404",
+        "solution": "This is usually a spooler issue. Restart the Print Spooler service in services.msc."
+    }
+]
